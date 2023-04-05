@@ -1,2 +1,2 @@
 # DSC630jnb
-This is the personal repo for Bellevue University course DSC630 in which I kept my homework assignment projects
+This repo contains some EDA, visualization and a k-means analyses on a medical sample dataset. 
